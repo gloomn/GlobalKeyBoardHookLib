@@ -1,6 +1,6 @@
 # GlobalKeyBoardHookLib
 
-Global Keyboard Hook Library is a library that primarily sets global keyboard hook to detect keyboard events outside of the applicatioin for window forms.
+Global Keyboard Hook Library is a library that primarily sets global keyboard hook to detect keyboard events outside of the application for window forms.
 This allows to detect and process the input at the system level, rather than at the program level.
 
 
