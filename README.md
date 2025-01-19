@@ -27,7 +27,7 @@ dotnet add package GlobalKeyBoardHookLib --version 1.0.0
 
 In your project, you don't need to use `using` statement to use Global Keyboard Hook Library.
 
-### Prerequisites
+## Prerequisites
 
 Before using the `GlobalKeyBoardHookLib` package, make sure your environment meets the following prerequisites:
 
