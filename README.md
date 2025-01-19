@@ -46,7 +46,7 @@ Before using the `GlobalKeyBoardHookLib` package, make sure your environment mee
 
 ## Usage
 
-Examples Code
+Example Code
 
 ```
 using System;
