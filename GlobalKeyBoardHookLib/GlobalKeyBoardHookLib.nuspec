@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>GlobalKeyBoardHookLib</id>
+    <version>1.0.0</version>
+    <title>Global KeyBoard Hook Library</title>
+    <authors>Lee Ki Joon</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.ico</icon> -->
+    <projectUrl>https://github.com/gloomn/GlobalKeyBoardHookLib</projectUrl>
+    <repository type="git" url="https://github.com/gloomn/GlobalKeyBoardHookLib" />
+    <description>A library to globally hook keyboard events in .NET applications.</description>
+    <releaseNotes>Globally hooking keyboard events function added</releaseNotes>
+    <copyright>© 2025 LeeKiJoon all rights reserved</copyright>
+    <tags>keyboard hook</tags>
+  </metadata>
+</package>
